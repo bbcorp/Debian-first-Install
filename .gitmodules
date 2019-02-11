@@ -1,6 +1,6 @@
 [submodule "zshrc"]
 	path = zshrc
-	url = git@git.chunkz.net:bbcorp/zshrc.git
+	url = https://git.chunkz.net/bbcorp/zshrc.git 
 [submodule "vimrc"]
 	path = vimrc
-	url = git@git.chunkz.net:bbcorp/vimrc.git
+	url = https://git.chunkz.net/bbcorp/vimrc.git
